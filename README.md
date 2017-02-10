@@ -1,7 +1,7 @@
 # Sentiment Analysis on Tweets
 
 ## Notes
-- Downloading Anaconda / Conda for Step 3 and 4 below are optional.
+- Downloading [Anaconda / Conda](https://www.continuum.io/downloads) for Step 3 and 4 below are optional.
 - We will be using Python 3.
 - Authenticate with Twitter *before* moving onto installation if you have not.
 
