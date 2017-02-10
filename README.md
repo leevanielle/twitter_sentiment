@@ -19,3 +19,5 @@
 4. Activate it: `$ source activate twitter_sentiment`
 5. Install requirements `$ pip install -r requirements.txt`
 6. `$ python3 generate_csv.py <YOUR TOPIC>`
+
+###### Copyright (c) Vanielle Le
