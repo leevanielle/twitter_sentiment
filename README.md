@@ -17,7 +17,7 @@
 2. Change into directory: `$ cd twitter_sentiment`
 3. Create the environment: `$ conda create -n twitter_sentiment python=3`
 4. Activate it: `$ source activate twitter_sentiment`
-5. Install requirements `$ pip install -r requirements.txt`
+5. Install requirements: `$ pip install -r requirements.txt`
 6. `$ python3 generate_csv.py <YOUR TOPIC>`
 
 ###### Copyright (c) Vanielle Le
