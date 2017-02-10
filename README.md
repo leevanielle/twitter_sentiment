@@ -13,7 +13,7 @@
 5. Collect your `consumer_key`, `consumer_secret`, `access_token`, and `access_token_secret`. Add them into the `/twitter_sentiment/secrets.py`.
 
 ## Installation
-1. Clone the repo: `$ git clone `
+1. Clone the repo: `$ git clone https://github.com/lekosfmi/twitter_sentiment`
 2. Change into directory: `$ cd twitter_sentiment`
 3. Create the environment: `$ conda create -n twitter_sentiment python=3`
 4. Activate it: `$ source activate twitter_sentiment`
