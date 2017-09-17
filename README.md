@@ -20,4 +20,4 @@
 5. Install requirements: `$ pip install -r requirements.txt`
 6. `$ python3 generate_csv.py <YOUR TOPIC>`
 
-###### Copyright 2017 (c) Vanielle Le
+###### Copyright 2017 (c) Vanielle Lee
